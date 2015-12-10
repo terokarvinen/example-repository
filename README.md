@@ -7,3 +7,5 @@ An example repository
 This is a test. 
 
 Bar is so foo
+
+This is from a fork
