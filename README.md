@@ -6,4 +6,4 @@ An example repository
 
 This is a test. 
 
-
+Foo is so bar
