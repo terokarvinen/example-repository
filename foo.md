@@ -2,4 +2,4 @@
 
 bar
 
-!(foo.png)
+![Foo bar](foo.png)
